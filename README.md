@@ -1,5 +1,7 @@
 # MongoDB AI Chatbot
 
+## NOTE TO PUBLIC: CANNOT INSTALL LOCALLY, REQUIRES API KEYS
+
 The AI Chatbot is a full-stack retrieval augmented generation (RAG) application.
 
 The chatbot uses the MongoDB [documentation](https://www.mongodb.com/docs/) and [Developer Center](https://www.mongodb.com/developer/) as its sources of truth.
